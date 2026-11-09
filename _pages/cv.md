@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download the complete academic CV as a PDF](/files/mofaq-al-faiz-academic-cv.pdf){: .btn .btn--primary }
-
 ## Profile
 
 Senior Software Engineer at Red Hat and former IBM Data Scientist with more than seven years of experience in applied artificial intelligence, natural language processing, data engineering, and cloud-native systems.
@@ -44,10 +42,6 @@ September 2019 – August 2021
 ## Research interests
 
 Computational linguistics; Arabic natural language processing; semantic modelling; contextual analysis; information extraction; text classification; and argument analysis.
-
-## Workshops and conference participation
-
-The PDF includes the complete workshop list, conference participation, linked projects, education, skills development, research interests, and publication status.
 
 ## Core competencies
 
