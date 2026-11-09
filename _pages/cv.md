@@ -9,7 +9,7 @@ redirect_from:
 
 ## Profile
 
-Senior Software Engineer at Red Hat and former IBM Data Scientist with more than seven years of experience in applied artificial intelligence, natural language processing, data engineering, and cloud-native systems.
+Senior Software Engineer at Red Hat and former IBM Data Scientist with more than seven years of experience in applied artificial intelligence, natural language processing, data engineering, software containerization, and cloud native systems.
 
 ## Education
 
