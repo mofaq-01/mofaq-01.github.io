@@ -12,6 +12,7 @@ Red Hat Services Delivery
 **2021 – Present**  
 Riyadh, Saudi Arabia
 
+- Supported application and infrastructure teams in deploying computing environments with GPU\\ support for generative AI workloads, including the configuration of OCI nodes with up to 10 GPUs \\per node in an OKE cluster.
 - Delivered OpenShift containers platform, a cluster administration, architecture, and implementation services for enterprise clients across the banking and telecommunications sectors, applying security standards and practices appropriate to each environment.
 - Performed cluster upgrades, troubleshooting, capacity planning, and performance analysis across enterprise production OpenShift environments, providing operational support across Levels 1, 2, and 3 and coordinating with Red Hat support.
 - Integrated Bitbucket continuous integration and continuous delivery pipelines with Argo CD on Advanced Cluster Management to automate containerized workloads; configured Quay for offline container image mirroring and implemented image security scans through controls using Docker and Podman.
