@@ -17,8 +17,8 @@
   /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
 
-  /* keep footer on the bottom of the page */
-  position: absolute;
+  /* keep the footer on the bottom of the page */
+  position: fixed;
   bottom: 0;
 
   -webkit-animation: intro 0.3s both;
@@ -31,9 +31,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 1em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0 1em 1em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -54,6 +54,14 @@
   .far,
   .fal {
     color: var(--global-text-color-light);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* don't pin the footer on mobile devices */
+  .page__footer {
+    position: relative;
+    bottom: auto;
   }
 }
 
