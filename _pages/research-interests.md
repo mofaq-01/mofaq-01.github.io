@@ -15,4 +15,4 @@ Computational linguistics; Arabic natural language processing; semantic modellin
 
 ## Research objective
 
-To develop and evaluate an NLP-based approach for analysing classical Arabic texts, with a focus on identifying semantic relationships, contextual meanings, rationales, and argumentative structures across differing positions and interpretations.
+To develop and evaluate an NLP based approach for analysing classical Arabic texts, with a focus on identifying semantic relationships, contextual meanings, rationales, and argumentative structures across differing positions and interpretations.
