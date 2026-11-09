@@ -1,8 +1,8 @@
 # Site configuration
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mofaq Al Faiz"
-title_separator          : "|"
+title                    : "Home"
+title_separator          : "-"
 name                     : &name "Mofaq Al Faiz"
 description              : &description "Senior Software Engineer | Red Hat, Ex-IBMer"
 url                      : https://mofaq-01.github.io
