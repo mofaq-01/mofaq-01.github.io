@@ -1,7 +1,5 @@
 # Main navigation
 main:
-  - title: "Home"
-    url: /
   - title: "Experience"
     url: /experience/
   - title: "Research Interests"

@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+<img src="{{ base_path }}/images/profile.png" alt="Mofaq Al Faiz" style="display:block;width:220px;height:220px;object-fit:cover;border-radius:50%;margin:0 auto 2em;" />
+
 ## Senior Software Engineer
 
 **On my name:** Family and friends call me *Mowafi* (Mo-WAH-fee). My given name is **Mofaq** (‫موفق‬, *Muwaffaq*, “successful”), and in English the Q is better left silent. **Al Faiz** (‫الفائز‬, *al-Faiz*, “the winner”) is my grandfather’s name. Feel free to use either :-)
