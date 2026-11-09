@@ -7,58 +7,42 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Profile
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Senior Software Engineer at Red Hat and former IBM Data Scientist with more than seven years of experience in applied artificial intelligence, natural language processing, data engineering, and cloud-native systems.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Master of Science in Computer Science**, School of Engineering and Computer Science, The Catholic University of America, Washington, D.C., United States — GPA: 3.85/4.00
+- **Bachelor of Science in Computer Science**, School of Engineering and Computer Science, Taif University, Taif, Saudi Arabia — GPA: 3.09/4.00
+- **Certificate of Completion — English Language Program**, University of Alabama in Huntsville, Huntsville, Alabama, United States — Level V
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Professional experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Red Hat Middle East
+
+**Senior Software Engineer, Red Hat Services Delivery**  
+August 2021 – Present
+
+- Delivered OpenShift cluster administration, architecture, and implementation services for enterprise clients across banking and telecommunications.
+- Performed cluster upgrades, troubleshooting, capacity planning, and performance analysis across enterprise production OpenShift environments.
+- Integrated Bitbucket CI/CD pipelines with Argo CD on Advanced Cluster Management and configured Quay for offline container image mirroring and image security controls using Docker and Podman.
+- Developed Customer Engagement Reports and reference architectures documenting design decisions and delivery considerations.
+
+### IBM Middle East
+
+**Data Scientist, IBM Data and AI Consulting**  
+September 2019 – August 2021
+
+- Developed and trained Watson Assistant chatbots for healthcare, telecommunications, and other applications.
+- Processed approximately 158,000 scholarly articles, extracted full text and metadata with Python, and prepared 9,120 articles for NLP analysis.
+- Trained question-answering models for relevance assessment and improved the precision of scholarly information retrieval.
+- Supported Cloud Pak for Data deployments on OpenShift through IBM Satellite.
+
+## Research interests
+
+Computational linguistics; Arabic natural language processing; semantic modelling; contextual analysis; information extraction; text classification; and argument analysis.
+
+## Core competencies
+
+Arabic NLP and computational linguistics; LLMs; semantic and contextual analysis; AraBERT and CAMeLBERT; named-entity recognition; semantic role labeling; LDA topic modeling; argument mining; Arabic OCR; Farasa; CAMeL Tools; IBM Watson; Cloud Pak for Data; TensorFlow; machine learning with Python; GPU deep learning; Pandas; NumPy; OpenShift; Kubernetes; CI/CD with Argo CD; IBM Cloud; OCI; LDAP; Splunk; Instana; Grafana; Dynatrace; Red Hat ACS; ACM; Prisma Cloud; access control; SAMA compliance; root-cause analysis reports; reference architectures; architecture decision records; and operational reports.

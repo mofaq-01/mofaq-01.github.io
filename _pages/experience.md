@@ -5,37 +5,25 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Kyndryl International
+## Red Hat Middle East
 
-**Senior Lead, Infrastructure Cloud Architecture**  
-Riyadh, Saudi Arabia · March 2024 – April 2026
+**Senior Software Engineer**  
+Red Hat Services Delivery  
+August 2021 – Present  
+Riyadh, Saudi Arabia
 
-- Supported application teams with the underlying software infrastructure for OCI GPU nodes and GPU infrastructure for generative AI workloads.
-- Managed more than 40 Red Hat OpenShift and Kubernetes production, non-production, and disaster-recovery clusters.
-- Integrated OpenShift with LDAP, monitoring platforms, and backup systems, including Dell PPDM, Instana, Splunk, Grafana, and Dynatrace.
-- Deployed and maintained Red Hat Advanced Cluster Security and Advanced Cluster Management, including RBAC, certificate lifecycle, and network policies.
-- Handled incidents, service requests, and change requests; prepared root-cause analyses and coordinated vendor support.
+- Delivered OpenShift cluster administration, architecture, and implementation services for enterprise clients across the banking and telecommunications sectors, applying security standards and practices appropriate to each environment.
+- Performed cluster upgrades, troubleshooting, capacity planning, and performance analysis across enterprise production OpenShift environments, providing operational support across Levels 1, 2, and 3 and coordinating with Red Hat support.
+- Integrated Bitbucket continuous integration and continuous delivery pipelines with Argo CD on Advanced Cluster Management to automate containerized workloads; configured Quay for offline container image mirroring and implemented image security scans through controls using Docker and Podman.
+- Developed Customer Engagement Reports and reference architectures documenting design decisions, implementation approaches, and delivery considerations across the design, implementation, and delivery phases.
 
-## Red Hat International
+## IBM Middle East
 
-**Senior Cloud Architect Delivery**  
-Riyadh, Saudi Arabia · August 2021 – August 2023
+**Data Scientist**  
+IBM Data and AI Consulting  
+September 2019 – August 2021  
+Riyadh, Saudi Arabia
 
-- Delivered OpenShift cluster administration and architecture design for enterprise clients across banking and telecommunications.
-- Performed cluster upgrades, troubleshooting, and capacity planning across production and OpenShift environments.
-- Integrated Bitbucket CI/CD pipelines with Argo CD and configured Quay for container-image mirroring.
-- Delivered customer engagement reports and reference architectures covering design, implementation, and delivery phases.
-
-## IBM International
-
-**Cloud Consultant, Data and AI Delivery**  
-Riyadh, Saudi Arabia · September 2019 – August 2021
-
-- Developed and trained IBM Watson Assistant chatbots for healthcare, telecommunications, and other sectors, including a patient-inquiry chatbot for the Ministry of Health.
-- Processed approximately 158,000 scholarly articles and prepared 9,120 articles for NLP analysis using Python scripts and IBM Watson Discovery.
-- Trained question-answering models to improve scholarly information retrieval.
-- Supported Cloud Pak for Data deployments on OpenShift, including IBM Cloud Pak for Integration components.
-
-## Core Experience
-
-Technical workshops and conference session chairing · AI model deployment and operations · Arabic NLP and computational linguistics · Cloud and container platforms · DevOps and DevSecOps · Solution architecture · Technical documentation and reference architectures.
+- Developed and trained Watson Assistant chatbots for applications across healthcare, telecommunications, and other sectors, including a patient inquiry chatbot for the Ministry of Health and a chatbot for STC Solutions, by implementing intents, entities, dialogue flows, and test scenarios.
+- Processed a corpus of approximately 158,000 scholarly articles and developed Python scripts to extract full text and metadata from large nested JSON datasets; prepared 9,120 articles for natural language processing analysis in IBM Watson Discovery and trained question-answering models for relevance assessment, improving the precision of scholarly information retrieval.
+- Supported Cloud Pak for Data deployments on OpenShift through IBM Satellite, including the deployment of IBM Cloud Pak for Data and integration components.

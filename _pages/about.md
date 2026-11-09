@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "Tamim Al Faiz"
+title: "Home"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-## Computer Engineer | Applied AI & Machine Learning
+## Senior Software Engineer
 
-I am a Saudi computer engineer and applied AI practitioner with more than seven years of experience across artificial intelligence, software development, data processing, cloud-native platforms, and technical training.
+**On my name:** Family and friends call me *Mowafi* (Mo-WAH-fee). My given name is **Mofaq** (‫موفق‬, *Muwaffaq*, “successful”), and in English the Q is better left silent. **Al Faiz** (‫الفائز‬, *al-Faiz*, “the winner”) is my grandfather’s name. Feel free to use either :-)
 
-My professional experience spans **IBM, Red Hat, Kyndryl, and Deloitte**, where I have delivered AI and containerized cloud solutions across banking, telecommunications, healthcare, and other sectors. I work across the full path from research prototype to dependable production system, including machine learning, Arabic natural language processing, Python, IBM Watson, Kubernetes, Red Hat OpenShift, CI/CD, GPU infrastructure, and cloud platforms.
+I am a Senior Software Engineer at Red Hat with more than seven years of experience in applied artificial intelligence, natural language processing, data engineering, and cloud-native computing. I have designed, evaluated, and deployed solutions across banking, telecommunications, and healthcare, with professional experience at Red Hat and IBM.
 
-My research interests include **Arabic NLP and computational linguistics, applied machine learning, artificial neural networks, data analytics, solar-energy forecasting, and photovoltaic-system performance**. I am especially interested in building practical AI systems that are reliable, measurable, and useful to researchers, organizations, and society.
+My interests include Arabic natural language processing, computational linguistics, machine learning, large language models, semantic analysis, contextual analysis, and information retrieval. My current research agenda focuses on developing and evaluating language technologies for Arabic text understanding.
 
-I have also delivered hands-on technical workshops and chaired sessions at IEEE, university, and industry events. I communicate technical concepts in both **Arabic** and **English**.
+I work with machine learning, natural language processing, Python, data analytics, IBM Watson, TensorFlow, OpenShift, Kubernetes, CI/CD, and cloud-native systems. I have delivered hands-on technical workshops and chaired sessions at IEEE, university, and industry events.
 
-Please explore my [experience](/experience/), [research interests](/research/), [projects](/portfolio/), and [workshops](/talks/). You can contact me by [email](mailto:tamim.alfaiz@aol.com) or [phone](tel:+966570110524), or connect with me on [LinkedIn](https://www.linkedin.com/in/mofaq01/) and [GitHub](https://github.com/tamim-alfaiz).
+I hold an **MSc in Computer Science** from the Catholic University of America in Washington, D.C., United States, School of Engineering and Computer Science, and a **BSc in Computer Science** from Taif University, School of Engineering and Computer Science. I also have industry experience as an R&D software engineer at IBM and Red Hat.

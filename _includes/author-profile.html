@@ -39,6 +39,9 @@
       {% if author.phone %}
         <li><a href="tel:{{ author.phone | remove: ' ' }}"><i class="fas fa-fw fa-phone icon-pad-right" aria-hidden="true"></i>Phone</a></li>
       {% endif %}
+      {% if author.workshops %}
+        <li><a href="{{ author.workshops }}"><i class="fas fa-fw fa-chalkboard-user icon-pad-right" aria-hidden="true"></i>Workshops</a></li>
+      {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}

@@ -1,16 +1,20 @@
 # Main navigation
 main:
-  - title: "About"
+  - title: "Home"
     url: /
   - title: "Experience"
     url: /experience/
-  - title: "Research"
-    url: /research/
-  - title: "Projects"
-    url: /portfolio/
+  - title: "Research Interests"
+    url: /research-interests/
   - title: "Workshops"
-    url: /talks/
+    url: /workshops/
+  - title: "Conference Participation"
+    url: /conference-participation/
+  - title: "Publication"
+    url: /publication/
+  - title: "Projects"
+    url: /projects/
   - title: "Education"
     url: /education/
-  - title: "Contact"
-    url: /contact/
+  - title: "CV"
+    url: /cv/

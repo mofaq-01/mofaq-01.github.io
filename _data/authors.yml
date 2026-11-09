@@ -1,11 +1,12 @@
 # Authors
 
-Tamim Al Faiz:
-  name        : "Tamim Al Faiz"
-  uri         : "https://tamim-alfaiz.github.io"
+Mofaq Al Faiz:
+  name        : "Mofaq Al Faiz"
   email       : "tamim.alfaiz@aol.com"
-  bio         : "Computer Engineer | Applied AI & Machine Learning"
+  bio         : "Senior Software Engineer"
   avatar      : "profile.png"
   phone       : "+966 570110524"
-  github      : "tamim-alfaiz"
-  linkedin    : "mofaq01"
+  location    : "Riyadh, Saudi Arabia"
+  employer    : "Red Hat, Ex-IBMer"
+  github      : "mofaq-01"
+  workshops   : "https://mofaq-01.github.io/tamim-lectures/"
