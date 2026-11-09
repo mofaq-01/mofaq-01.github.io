@@ -12,9 +12,10 @@ Red Hat Services Delivery
 **2021 – Present**  
 Riyadh, Saudi Arabia
 
-- Delivered OpenShift cluster administration, architecture, and implementation services for enterprise clients across the banking and telecommunications sectors, applying security standards and practices appropriate to each environment.
+- Delivered OpenShift containers platform, a cluster administration, architecture, and implementation services for enterprise clients across the banking and telecommunications sectors, applying security standards and practices appropriate to each environment.
 - Performed cluster upgrades, troubleshooting, capacity planning, and performance analysis across enterprise production OpenShift environments, providing operational support across Levels 1, 2, and 3 and coordinating with Red Hat support.
 - Integrated Bitbucket continuous integration and continuous delivery pipelines with Argo CD on Advanced Cluster Management to automate containerized workloads; configured Quay for offline container image mirroring and implemented image security scans through controls using Docker and Podman.
+- Supported Cloud Pak for Data deployments on OpenShift through IBM Satellite, including the deployment of IBM Cloud integration components.
 - Developed Customer Engagement Reports and reference architectures documenting design decisions, implementation approaches, and delivery considerations across the design, implementation, and delivery phases.
 
 ## IBM Middle East
@@ -26,4 +27,6 @@ Riyadh, Saudi Arabia
 
 - Developed and trained Watson Assistant chatbots for applications across healthcare, telecommunications, and other sectors, including a patient inquiry chatbot for the Ministry of Health and a chatbot for STC Solutions, by implementing intents, entities, dialogue flows, and test scenarios.
 - Processed a corpus of approximately 158,000 scholarly articles and developed Python scripts to extract full text and metadata from large nested JSON datasets; prepared 9,120 articles for natural language processing analysis in IBM Watson Discovery and trained question-answering models for relevance assessment, improving the precision of scholarly information retrieval.
-- Supported Cloud Pak for Data deployments on OpenShift through IBM Satellite, including the deployment of IBM Cloud Pak for Data and integration components.
+- Processed and organized large datasets using Python, Pandas, NumPy, and regular expressions to extract relevant information from unstructured text.
+- Analyzed and visualized large datasets to identify indicators, patterns, and results relevant to project requirements.
+- Prepared analytical reports and presented findings to a multidisciplinary team to support evidence based decision making.
