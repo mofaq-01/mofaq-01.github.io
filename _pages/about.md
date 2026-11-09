@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Home"
 author_profile: true
@@ -6,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-{% include base_path %}
-<img src="{{ base_path }}/images/profile.png" alt="Mofaq Al Faiz" style="display:block;width:220px;height:220px;object-fit:cover;border-radius:50%;margin:0 auto 2em;" />
 
 ## Senior Software Engineer
 
