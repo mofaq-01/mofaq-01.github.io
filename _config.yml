@@ -52,7 +52,7 @@ talkmap_link             : false
 comments:
   provider               :
 atom_feed:
-  hide                   : false
+  hide                   : true
 
 analytics:
   provider               : "false"

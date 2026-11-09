@@ -9,20 +9,17 @@
 const PLOTLY_URL = "https://cdn.jsdelivr.net/npm/plotly.js@3.6.0/dist/plotly.min.js";
 const MERMAID_URL = "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
 
-// Detect OS/browser preference
-const browserPref = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
 // Determine the computed theme, which can be "dark" or "light".
 function determineComputedTheme() {
   // Determine the expected state of the theme toggle, which can be "dark", "light", or default "system"
   let themeSetting = localStorage.getItem("theme");
   themeSetting = (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
 
-  // Return the setting if set, or use the browser preference
+  // Return the setting if set; the site defaults to light mode.
   if (themeSetting != "system") {
     return themeSetting;
   }
-  return browserPref ? "dark" : "light";
+  return "light";
 }
 
 // Set the theme on page load or when explicitly called. Without an argument the
@@ -143,13 +140,6 @@ $(document).ready(function () {
 
   // If the user hasn't chosen a theme, follow the OS preference
   setTheme();
-  window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
-          if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
-          }
-        });
-
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);
 
