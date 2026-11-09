@@ -13,16 +13,16 @@ Senior Software Engineer at Red Hat and former IBM Data Scientist with more than
 
 ## Education
 
-- **Master of Science in Computer Science**, School of Engineering and Computer Science, The Catholic University of America, Washington, D.C., United States — GPA: 3.85/4.00
-- **Bachelor of Science in Computer Science**, School of Engineering and Computer Science, Taif University, Taif, Saudi Arabia — GPA: 3.09/4.00
-- **Certificate of Completion — English Language Program**, University of Alabama in Huntsville, Huntsville, Alabama, United States — Level V
+- **Master of Science in Computer Science**, School of Engineering and Computer Science, The Catholic University of America, Washington, D.C., United States (**2017–2019**) — GPA: 3.85/4.00
+- **Bachelor of Science in Computer Science**, School of Engineering and Computer Science, Taif University, Taif, Saudi Arabia (**2010–2014**) — GPA: 3.09/4.00
+- **Certificate of Completion — English Language Program**, University of Alabama in Huntsville, Huntsville, Alabama, United States (**2015–2017**) — Level V
 
 ## Professional experience
 
 ### Red Hat Middle East
 
 **Senior Software Engineer, Red Hat Services Delivery**  
-August 2021 – Present
+2021 – Present
 
 - Delivered OpenShift cluster administration, architecture, and implementation services for enterprise clients across banking and telecommunications.
 - Performed cluster upgrades, troubleshooting, capacity planning, and performance analysis across enterprise production OpenShift environments.
@@ -32,7 +32,7 @@ August 2021 – Present
 ### IBM Middle East
 
 **Data Scientist, IBM Data and AI Consulting**  
-September 2019 – August 2021
+2019 – 2021
 
 - Developed and trained Watson Assistant chatbots for healthcare, telecommunications, and other applications.
 - Processed approximately 158,000 scholarly articles, extracted full text and metadata with Python, and prepared 9,120 articles for NLP analysis.

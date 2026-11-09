@@ -9,7 +9,7 @@ author_profile: true
 
 **Senior Software Engineer**  
 Red Hat Services Delivery  
-August 2021 – Present  
+**2021 – Present**  
 Riyadh, Saudi Arabia
 
 - Delivered OpenShift cluster administration, architecture, and implementation services for enterprise clients across the banking and telecommunications sectors, applying security standards and practices appropriate to each environment.
@@ -21,7 +21,7 @@ Riyadh, Saudi Arabia
 
 **Data Scientist**  
 IBM Data and AI Consulting  
-September 2019 – August 2021  
+**2019 – 2021**  
 Riyadh, Saudi Arabia
 
 - Developed and trained Watson Assistant chatbots for applications across healthcare, telecommunications, and other sectors, including a patient inquiry chatbot for the Ministry of Health and a chatbot for STC Solutions, by implementing intents, entities, dialogue flows, and test scenarios.
