@@ -10,7 +10,7 @@ baseurl                  : ""
 repository               : "mofaq-01/mofaq-01.github.io"
 
 author:
-  avatar           : "IMG_0671-profile-candidate.png"
+  avatar           : "profile.png"
   name             : "Mofaq Al Faiz"
   bio              : "Senior Software Engineer"
   location         : "Riyadh, Saudi Arabia"
