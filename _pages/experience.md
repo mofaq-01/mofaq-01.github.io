@@ -12,12 +12,13 @@ Red Hat Services Delivery
 **2021 – Present**  
 Riyadh, Saudi Arabia
 
-- Supported application and infrastructure teams in deploying computing environments with GPU\\ support for generative AI workloads, including the configuration of OCI nodes with up to 10 GPUs \\per node in an OKE cluster.
-- Delivered OpenShift containers platform, a cluster administration, architecture, and implementation services for enterprise clients across the banking and telecommunications sectors, applying security standards and practices appropriate to each environment.
-- Performed cluster upgrades, troubleshooting, capacity planning, and performance analysis across enterprise production OpenShift environments, providing operational support across Levels 1, 2, and 3 and coordinating with Red Hat support.
-- Integrated Bitbucket continuous integration and continuous delivery pipelines with Argo CD on Advanced Cluster Management to automate containerized workloads; configured Quay for offline container image mirroring and implemented image security scans through controls using Docker and Podman.
-- Supported Cloud Pak for Data deployments on OpenShift through IBM Satellite, including the deployment of IBM Cloud Pak for integration components. 
-- Developed Customer Engagement Reports and reference architectures documenting design decisions, implementation approaches, and delivery considerations across the design, implementation, and delivery phases.
+- Designed and configured GPU computing environments for generative AI workloads, provisioning cloud based, container orchestrated cluster, with up to 10 GPUs per node, and supported application and infrastructure teams in deploying them.
+- Supported the deployment of an integrated data and AI platform across hybrid cloud environments, including its data integration components.
+- Delivered the architecture, implementation, and operation of container orchestration platforms for enterprise clients in the banking and telecommunications, applying requirements suited to each environment.
+- Performed cluster upgrades, troubleshooting, capacity planning, and performance analysis across enterprise production, disaster recovery environments while providing operational support and coordinating with vendor engineering team.
+- Automated how containerized software moves from build to deployment by connecting continuous integration and delivery pipelines to cluster management. Also set up offline distribution of container images with image security and software supply chain controls.
+- Authored reference architectures and engagement reports documenting design decisions, implementation approaches, and delivery considerations across project phases.
+
 
 ## IBM Middle East
 
@@ -26,8 +27,9 @@ IBM Data and AI Consulting
 **2019 – 2021**  
 Riyadh, Saudi Arabia
 
-- Developed and trained Watson Assistant chatbots for applications across healthcare, telecommunications, and other sectors, including a patient inquiry chatbot for the Ministry of Health and a chatbot for STC Solutions, by implementing intents, entities, dialogue flows, and test scenarios.
-- Processed a corpus of approximately 158,000 scholarly articles and developed Python scripts to extract full text and metadata from large nested JSON datasets; prepared 9,120 articles for natural language processing analysis in IBM Watson Discovery and trained question-answering models for relevance assessment, improving the precision of scholarly information retrieval.
+- Trained dialogue systems and trained Watson Assistant chatbots for applications across healthcare, telecommunications, and other sectors, including a patient inquiry chatbot for the Ministry of Health, by implementing intents, entities, dialogue flows, and test scenarios.
+- Constructed a research corpus from approximately 158,000 scholarly articles, writing Python pipelines to extract full text and metadata from large nested JSON datasets, and prepared 9,120 articles for natural language processing analysis.
+- Trained question answering models to assess the relevance of those articles, which improved the precision of scholarly information retrieval.
 - Processed and organized large datasets using Python, Pandas, NumPy, and regular expressions to extract relevant information from unstructured text.
-- Analyzed and visualized large datasets to identify indicators, patterns, and results relevant to project requirements.
-- Prepared analytical reports and presented findings to a multidisciplinary team to support evidence based decision making.
+- Analyzed and visualized large datasets to identify patterns.
+- Presented findings to a multidisciplinary team.
