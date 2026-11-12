@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Senior Software Engineer at Red Hat and former IBM Data Scientist with more than seven years of experience in applied artificial intelligence, natural language processing, data engineering, software containerization, and cloud native systems. I have designed, evaluated, and deployed solutions across the banking, telecommunications, and healthcare industries, with professional experience at Red Hat and IBM.
 
-I work with machine learning, natural language processing, Python, data analytics, IBM Watson, TensorFlow, GenAI, software containerization, automation, and cloud-native systems. I have delivered hands on technical workshops and chaired sessions at IEEE, university, and industry events.
+I work with machine learning, natural language processing, Python, data analytics, IBM Watson, TensorFlow, GenAI, software containerization, automation, and cloud native systems. I have delivered hands on technical workshops and chaired sessions at IEEE, university, and industry events.
 
 My interests include Arabic natural language processing, computational linguistics, machine learning, large language models, semantic analysis, contextual analysis, and information retrieval. My current research agenda focuses on developing and evaluating language technologies for Arabic text understanding.
 
