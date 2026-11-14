@@ -46,16 +46,28 @@ Computational linguistics; Arabic natural language processing; semantic modellin
 <table>
   <tbody>
     <tr>
-      <td><strong>Container Technologies</strong><br><strong>DevOps Platforms</strong></td>
-      <td>CI/CD GitHub Actions, Argo CD, Bitbucket, Docker, Podman, Quay registry; Red Hat OpenShift, Kubernetes, IBM Cloud/Cloud Pak, Oracle Cloud, AWS; multicloud security posture management</td>
+      <td><strong>Arabic NLP</strong></td>
+      <td>Arabic natural language processing and computational linguistics; semantic and contextual analysis; information extraction (named entity recognition, semantic role labeling); topic modeling with LDA; argument mining; transformer based Arabic language models (AraBERT, CAMeLBERT); Arabic morphological analysis; OCR; question answering and information retrieval; dialogue system design; IBM Watson</td>
     </tr>
     <tr>
       <td><strong>Machine Learning and Data Methods</strong></td>
-      <td>Neural networks, deep learning with TensorFlow on GPUs; large language models (LLMs); question answering and information retrieval; dialogue system design; model evaluation; Python; Pandas, NumPy, regular expressions; large-scale text processing, IBM Watson, experimental evaluation, and performance analysis</td>
+      <td>Neural networks; deep learning with TensorFlow on GPUs; large language models (LLMs); model evaluation; experimental evaluation and performance analysis; Python; Pandas, NumPy; regular expressions; large scale text processing</td>
     </tr>
     <tr>
-      <td><strong>Integration &amp; Deployment</strong></td>
-      <td>Integration, configuration, testing, validation; GitHub Actions; CI/CD with Argo CD; IBM Cloud, OCI (OKE, GPU nodes); LDAP; backup integration</td>
+      <td><strong>Linux</strong></td>
+      <td>Red Hat Enterprise Linux (RHEL), Fedora, Ubuntu</td>
+    </tr>
+    <tr>
+      <td><strong>Containers</strong></td>
+      <td>Docker, Podman, Quay registry; Kubernetes, Red Hat OpenShift</td>
+    </tr>
+    <tr>
+      <td><strong>DevOps</strong></td>
+      <td>CI/CD with GitHub Actions and Argo CD; Bitbucket; automated deployment; integration, configuration, testing, validation; backup integration</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud Computing</strong></td>
+      <td>IBM Cloud and Cloud Pak; Oracle Cloud Infrastructure (OKE, GPU nodes); AWS; hybrid cloud and multicloud; GPU computing; capacity planning</td>
     </tr>
     <tr>
       <td><strong>Scholarly Practice</strong></td>
