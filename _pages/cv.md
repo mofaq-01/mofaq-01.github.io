@@ -43,9 +43,23 @@ Computational linguistics; Arabic natural language processing; semantic modellin
 
 ## Core competencies
 
-| Group | Competencies |
-|:---|:---|
-| **Container Technologies**<br>**DevOps Platforms** | CI/CD GitHub Actions, Argo CD, Bitbucket, Docker, Podman, Quay registry; Red Hat OpenShift, Kubernetes, IBM Cloud/Cloud Pak, Oracle Cloud, AWS; multicloud security posture management |
-| **Machine Learning and Data Methods** | Neural networks, deep learning with TensorFlow on GPUs; large language models (LLMs); question answering and information retrieval; dialogue system design; model evaluation; Python; Pandas, NumPy, regular expressions; large-scale text processing, IBM Watson, experimental evaluation, and performance analysis |
-| **Integration & Deployment** | Integration, configuration, testing, validation; GitHub Actions; CI/CD with Argo CD; IBM Cloud, OCI (OKE, GPU nodes); LDAP; backup integration |
-| **Scholarly Practice** | Technical writing; teaching; research presentation; session chairing |
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Container Technologies</strong><br><strong>DevOps Platforms</strong></td>
+      <td>CI/CD GitHub Actions, Argo CD, Bitbucket, Docker, Podman, Quay registry; Red Hat OpenShift, Kubernetes, IBM Cloud/Cloud Pak, Oracle Cloud, AWS; multicloud security posture management</td>
+    </tr>
+    <tr>
+      <td><strong>Machine Learning and Data Methods</strong></td>
+      <td>Neural networks, deep learning with TensorFlow on GPUs; large language models (LLMs); question answering and information retrieval; dialogue system design; model evaluation; Python; Pandas, NumPy, regular expressions; large-scale text processing, IBM Watson, experimental evaluation, and performance analysis</td>
+    </tr>
+    <tr>
+      <td><strong>Integration &amp; Deployment</strong></td>
+      <td>Integration, configuration, testing, validation; GitHub Actions; CI/CD with Argo CD; IBM Cloud, OCI (OKE, GPU nodes); LDAP; backup integration</td>
+    </tr>
+    <tr>
+      <td><strong>Scholarly Practice</strong></td>
+      <td>Technical writing; teaching; research presentation; session chairing</td>
+    </tr>
+  </tbody>
+</table>
