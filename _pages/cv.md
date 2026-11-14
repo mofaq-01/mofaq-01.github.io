@@ -43,7 +43,7 @@ Computational linguistics; Arabic natural language processing; semantic modellin
 
 ## Core competencies
 
-<table class="competencies-table">
+<table>
   <tbody>
     <tr>
       <td><strong>Container Technologies</strong><br><strong>DevOps Platforms</strong></td>
