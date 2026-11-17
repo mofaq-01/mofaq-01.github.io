@@ -52,12 +52,12 @@
 
   .academic-name-display {
     margin: 0 0 1.25em;
-    text-align: center;
+    text-align: left;
   }
 
   .academic-name-display__english {
     font-family: $serif;
-    font-size: 1.2em;
+    font-size: 1em;
     font-weight: 600;
     letter-spacing: 0.01em;
   }
@@ -65,8 +65,8 @@
   .academic-name-display__arabic {
     margin-top: 0.2em;
     font-family: "Noto Naskh Arabic", "Amiri", "Traditional Arabic", serif;
-    font-size: 1.55em;
-    line-height: 1.5;
+    font-size: 1em;
+    line-height: 1.4;
   }
 
   h2 {
