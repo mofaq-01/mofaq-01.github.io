@@ -11,6 +11,8 @@ redirect_from:
 
 Senior Software Engineer at Red Hat and former IBM Data Scientist with more than seven years of experience in applied artificial intelligence, natural language processing, data engineering, software containerization, and cloud native systems.
 
+I work with machine learning, natural language processing, Python, data analytics, IBM Watson, TensorFlow, GenAI, software containerization, automation, and cloud native systems. I have delivered hands on technical workshops and chaired sessions at IEEE, university, and industry events.
+
 I hold an **M.S. in Computer Science** from the School of Engineering and Computer Science at the Catholic University of America in Washington, D.C., United States, with a GPA of 3.85/4.00, and a **B.S. in Computer Science** from Taif University. I also have industry experience as an R&D software engineer at IBM and Red Hat.
 
 ## Experience
