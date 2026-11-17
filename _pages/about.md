@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Mofaq Mastour Faiz Alotaibi<br>
-&emsp;&emsp;&emsp;&emsp;<span lang="ar" dir="rtl">موفق مستور فائز العتيبي</span>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mofaq Mastour Faiz Alotaibi<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<span lang="ar" dir="rtl">موفق مستور فائز العتيبي</span>
 
 **Re my name** : Family and friends call me *Mowafi* (Mo-WAH-fee). My given name is **Mofaq**, and in English the Q is better left silent. **Al Faiz** is my grandfather’s name. Feel free to use either :-)
 
