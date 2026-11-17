@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mofaq Mastour Faiz Alotaibi<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<span lang="ar" dir="rtl">موفق مستور فائز العتيبي</span>
 
-**Re my name** : Family and friends call me *Mowafi* (Mo-WAH-fee). My given name is **Mofaq**, and in English the Q is better left silent. **Al Faiz** is my grandfather’s name. Feel free to use either :-)
+
+**Re my name** : Family and friends call me *MO-fah*. My given name is **Mofaq**, and in English the Q is better left silent. **Al Faiz** is my grandfather’s name, and my full name is **Mofaq Mastour Faiz Alotaibi** (<span lang="ar" dir="rtl">موفق مستور فايز العتيبي</span>). Feel free to use either :-)
 
 I am a Senior Software Engineer at Red Hat and former IBM Data Scientist with more than seven years of experience in applied artificial intelligence, natural language processing, data engineering, software containerization, and cloud native systems. I have designed, evaluated, and deployed solutions across the banking, telecommunications, and healthcare industries, with professional experience at Red Hat and IBM.
 
