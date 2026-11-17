@@ -50,6 +50,25 @@
 
 .page__content {
 
+  .academic-name-display {
+    margin: 0 0 1.25em;
+    text-align: center;
+  }
+
+  .academic-name-display__english {
+    font-family: $serif;
+    font-size: 1.2em;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+
+  .academic-name-display__arabic {
+    margin-top: 0.2em;
+    font-family: "Noto Naskh Arabic", "Amiri", "Traditional Arabic", serif;
+    font-size: 1.55em;
+    line-height: 1.5;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
