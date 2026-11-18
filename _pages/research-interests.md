@@ -11,7 +11,7 @@ Computational linguistics; Arabic natural language processing; semantic modellin
 
 ## Current research proposal
 
-**Applying Natural Language Processing to the Semantic and Contextual Analysis of Classical Arabic Texts.**
+**Applying Natural Language Processing to the Semantic and Contextual Analysis of Arabic Texts.**
 
 ## Research objective
 
